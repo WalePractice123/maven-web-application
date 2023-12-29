@@ -11,7 +11,7 @@
 <body>
 <h1 align="center">Welcome to Tesla Web application Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
-	           We are raising billionaires IT professionals accross the nations of the World- We are the best yes indeed.
+	           We are raising billionaires IT professionals accross the nations of the World.
 	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
         Landmark Technologies, the Pride of Africa.
 	Class34 DevOps MasterClass started on Oct 14, 2023. </h1>
