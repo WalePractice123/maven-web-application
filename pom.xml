@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.173.112.223:8081/repository/tesla2/</url>
+	      <url>http://35.174.184.196:8081/repository/new_one-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
